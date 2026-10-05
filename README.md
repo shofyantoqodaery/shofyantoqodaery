@@ -1,4 +1,4 @@
-## Hello World I'm Shofyanto Qodaery 👋
+## Hello World I'm Shofyanto Qodaery 👋👋👋
 
 ![Banner](img/github-header-banner (1).png)
 
