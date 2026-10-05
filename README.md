@@ -3,7 +3,7 @@
 ![shofyantoqodaery](img/github-header-bannerr.png)
 
 
-### 🚀
+
 
 ### 🚀 Tech Enthusiast | Student Developer | System Architecture
 
