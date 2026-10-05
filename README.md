@@ -44,10 +44,7 @@ I'm a university student in Indonesia with a strong passion for blending **softw
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-### 📈 GitHub Stats
-<!-- Ganti YOUR_GITHUB_USERNAME dengan username GitHub aslimu -->
-[![Shofyanto's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-
+###
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/shofyanto](#) <!-- Masukkan link aslimu -->
 - **Instagram:** [@o.f.y__0](https://instagram.com/o.f.y__0) 
