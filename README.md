@@ -1,6 +1,6 @@
 ## Hello World I'm Shofyanto Qodaery 👋
 
-![shofyantoqodaery](img/github-header-banner (1).jpg)
+![Banner](img/github-header-banner (1).png)
 
 <!
 **shofyantoqodaery/shofyantoqodaery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
