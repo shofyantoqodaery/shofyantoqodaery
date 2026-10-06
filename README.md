@@ -1,9 +1,8 @@
 # Hey! I'm Shofyanto Qodaery 👋👋👋
 
-![shofyantoqodaery](img/github-header-banner1.png)
+![shofyantoqodaery](img/github-header-banner2.png)
 
-
-
+#
 
 ### 🚀 Tech Enthusiast | Student Developer | System Architecture
 
