@@ -1,6 +1,6 @@
 # Hello World I'm Shofyanto Qodaery 👋👋👋
 
-![shofyantoqodaery](img/github-header-bannerr.png)
+![shofyantoqodaery](img/github-header-banner.png)
 
 
 
@@ -52,5 +52,5 @@ I'm a university student in Indonesia with a strong passion for blending **softw
 #
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/shofyanto](#) <!-- Masukkan link aslimu -->
-- **Instagram:** [@o.f.y__0](https://instagram.com/o.f.y__0) 
+- **Instagram:** ![@o.f.y__0](https://instagram.com/o.f.y__0) 
 - **Email:** [shoyantoqodar@gmail.com](mailto:emailmu@domain.com) <!-- Masukkan email aslimu -->
