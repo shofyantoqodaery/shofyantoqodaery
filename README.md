@@ -57,8 +57,6 @@ I'm a university student in Indonesia with a strong passion for blending **softw
 - **Instagram:** [@o.f.y__0](https://instagram.com/o.f.y__0) 
 - **Email:** [shoyantoqodar@gmail.com](mailto:emailmu@domain.com) <!-- Masukkan email aslimu -->
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/shofyantoqodaery/shofyantoqodaery/snake-output/snake.svg" alt="Snake animation" />
-
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shofyantoqodaery/shofyantoqodaery/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
