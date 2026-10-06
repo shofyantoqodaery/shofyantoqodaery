@@ -9,6 +9,9 @@
 
 I'm a university student in Indonesia with a strong passion for blending **software development, artificial intelligence, and engineering**. I love building solutions that matter—from designing system architectures to researching campus sustainability initiatives!
 
+#
+
+
 ### 👨‍💻 About Me
 - 🎓 Currently diving deep into **Software Architecture**, **Python**, and **AI Workflows**.
 - 🌱 Actively exploring AI tools to optimize research and daily productivity.
@@ -17,6 +20,7 @@ I'm a university student in Indonesia with a strong passion for blending **softw
 - 💬 Ask me about: **Python, Git/GitHub, PlantUML, or Engineering concepts!**
 - ⚡ Fun fact: I love turning complex logic gates and system architectures into clean, understandable diagrams.
 
+#
 ### 🌟 Featured Projects
 
 #### 📚 [TutorHub](#) <!-- Ganti # dengan link repositori TutorHub kamu -->
@@ -27,6 +31,7 @@ I'm a university student in Indonesia with a strong passion for blending **softw
   - Constructed detailed **Use Case** and **Sequence diagrams** to map out user interactions and system control flows.
 - **Tech Stack:** `PlantUML`, `Software Architecture`
 
+#
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Development:**
@@ -44,7 +49,7 @@ I'm a university student in Indonesia with a strong passion for blending **softw
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-###
+#
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/shofyanto](#) <!-- Masukkan link aslimu -->
 - **Instagram:** [@o.f.y__0](https://instagram.com/o.f.y__0) 
