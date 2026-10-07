@@ -8,6 +8,7 @@
 
 <h1 align="center">Hello World I'm Shofyanto Qodaery 👋</h1>
 
+#
 ### 🚀 Tech Enthusiast | Student Developer | System Architecture
 
 I'm a university student in Indonesia with a strong passion for blending **software development, artificial intelligence, and engineering**. I love building solutions that matter—from designing system architectures to researching campus sustainability initiatives!
